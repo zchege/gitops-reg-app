@@ -1,2 +1,1 @@
-# gitops-reg-app
-sample registartion application
+# gitops-register-app
